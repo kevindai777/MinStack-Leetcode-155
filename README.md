@@ -3,6 +3,6 @@
 Leetcode Question 155 (Easy)
 
 Techniques Used in Question:
-Stack
+Stack, Design
 
 [Link to Question](https://leetcode.com/problems/min-stack/)
